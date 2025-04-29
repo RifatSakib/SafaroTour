@@ -1,0 +1,16 @@
+.active{
+    background-color: transparent !important;
+    border-radius: 10px;
+    
+    
+}
+
+.lilink:hover{
+    background-color: #ffff00 !important;
+    border-radius: 8px;
+
+}
+
+summary::-webkit-details-marker {
+    display: none; /* Hide the triangle in WebKit browsers */
+}
